@@ -1,0 +1,10 @@
+
+
+.bg_img {
+    background: url('../../Assets/images/not-found.png') ;
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
